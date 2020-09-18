@@ -1,0 +1,10 @@
+D:\proga\Lab2\lab2task5\lab2task5\bin\Debug\lab2task5.exe.config
+D:\proga\Lab2\lab2task5\lab2task5\bin\Debug\lab2task5.exe
+D:\proga\Lab2\lab2task5\lab2task5\bin\Debug\lab2task5.pdb
+D:\proga\Lab2\lab2task5\lab2task5\obj\Debug\lab2task5.csprojAssemblyReference.cache
+D:\proga\Lab2\lab2task5\lab2task5\obj\Debug\lab2task5.csproj.CoreCompileInputs.cache
+D:\proga\Lab2\lab2task5\lab2task5\obj\Debug\lab2task5.exe
+D:\proga\Lab2\lab2task5\lab2task5\obj\Debug\lab2task5.pdb
+D:\proga\Lab2\lab2task5\lab2task5\bin\Debug\System.ValueTuple.dll
+D:\proga\Lab2\lab2task5\lab2task5\bin\Debug\System.ValueTuple.xml
+D:\proga\Lab2\lab2task5\lab2task5\obj\Debug\lab2task5.csproj.CopyComplete
