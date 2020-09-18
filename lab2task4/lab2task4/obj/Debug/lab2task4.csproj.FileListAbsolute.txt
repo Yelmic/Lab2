@@ -1,0 +1,12 @@
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\lab2task4.exe.config
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\lab2task4.exe
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\lab2task4.pdb
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\Newtonsoft.Json.dll
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\System.ValueTuple.dll
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\Newtonsoft.Json.xml
+D:\proga\Lab2\lab2task4\lab2task4\bin\Debug\System.ValueTuple.xml
+D:\proga\Lab2\lab2task4\lab2task4\obj\Debug\lab2task4.csprojAssemblyReference.cache
+D:\proga\Lab2\lab2task4\lab2task4\obj\Debug\lab2task4.csproj.CoreCompileInputs.cache
+D:\proga\Lab2\lab2task4\lab2task4\obj\Debug\lab2task4.csproj.CopyComplete
+D:\proga\Lab2\lab2task4\lab2task4\obj\Debug\lab2task4.exe
+D:\proga\Lab2\lab2task4\lab2task4\obj\Debug\lab2task4.pdb
